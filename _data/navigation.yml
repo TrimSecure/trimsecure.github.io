@@ -1,6 +1,6 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
+- name: Services
+  link: /services/
+  new_window: true
   highlight: false
 - name: Blog
   link: /blog/
@@ -14,11 +14,11 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Services
-  link: /services/
-  new_window: true
-  highlight: false
 - name: Sign Up
   link: /
   new_window: true
   highlight: true
+- name: Pricing
+  link: /pricing/
+  new_window: false
+  highlight: false
