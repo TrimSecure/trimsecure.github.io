@@ -1,16 +1,15 @@
 - links:
-    - name: Blog
-      link: /blog/
+    - name: Home
+      link: /
+    - name: Services
+      link: /
     - name: About
       link: /about/
     - name: Contact
       link: /contact/
 - links:
-    - name: Docs
-      link: /
-      new_window: true
-    - name: Status
-      link: /
+    - name:
+      link:
       new_window: true
 - links:
     - name: Facebook
