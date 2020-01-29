@@ -16,7 +16,3 @@
       link: 'https://twitter.com/TrimSecure'
       social_icon: Twitter
       new_window: true
-    - name: RSS
-      link: /feedwrong.xml
-      social_icon: RSS
-      new_window: false
