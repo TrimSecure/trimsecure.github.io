@@ -2,15 +2,11 @@
     - name: Home
       link: /
     - name: Services
-      link: /
+      link: /services/
     - name: About
       link: /about/
     - name: Contact
       link: /contact/
-- links:
-    - name:
-      link:
-      new_window: true
 - links:
     - name: Facebook
       link: 'https://facebook.com/TrimSecure/'
