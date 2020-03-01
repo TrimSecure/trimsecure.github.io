@@ -68,19 +68,26 @@
 }
 
 footer {
-// 	padding: 50px 0 50px 0;
-    padding: 5px 0 5px 0;
-	font-size: 1.1em;
-// 	position: relative;
-	position: fixed;
-	background: #fff;
-	color: #fff;
+// // 	padding: 50px 0 50px 0;
+//     padding: 5px 0 5px 0;
+// 	font-size: 1.1em;
+// // 	position: relative;
+// 	position: fixed;
+// 	background: #fff;
+// 	color: #fff;
     
+//     left: 0;
+//     bottom: 0;
+//     width: 100%;
+//     text-align: center;
+    padding: 5px 0 5px 0;
+    font-size: 1.1em;
+    background: #fff;
+    color: #fff;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
-    
 	.copyright {
 		font-size: .8em;
 		margin: 0 auto;
